@@ -1,4 +1,4 @@
-Install Relynt ISP Framework
+Install Relynt 
 ============================
 
 **Base requirements:**

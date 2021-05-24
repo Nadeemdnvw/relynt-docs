@@ -1,7 +1,7 @@
 Hardware requirements
 =====================
 
-For running Splynx on a hosted environment you need the following:
+For running Relynt on a hosted environment you need the following:
 
 ## Hardware:
 
@@ -13,7 +13,7 @@ For running Splynx on a hosted environment you need the following:
 
 We support the following Virtual Machines – *VMWare, XEN, KVM, Hyper-V*
 
-Splynx Isp Framework cannot work on OpenVZ containers.
+Relynt cannot work on OpenVZ containers.
 
 Our system has been successfully tested on these cloud services:
 

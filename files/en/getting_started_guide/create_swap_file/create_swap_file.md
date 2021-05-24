@@ -1,7 +1,7 @@
 Create swap file
 ================
 
-Run on your server:
+Run the following on your server:
 
 ```bash
 if [[ ! -f /swapfile ]]; then
