@@ -1,7 +1,7 @@
 Hardware requirements
 =====================
 
-For running Relynt on a hosted environment you need the following:
+To run Relynt on a hosted environment please ensure you've met the following requirements:
 
 ## Hardware:
 
@@ -11,9 +11,13 @@ For running Relynt on a hosted environment you need the following:
 * HDD: 64 GB and more (SSD preferred)
 * Network interface: 1 and more
 
-We support the following Virtual Machines – *VMWare, XEN, KVM, Hyper-V*
+The following Virtual Machines are supported:
+*  VMWare
+*  XEN
+*  KVM
+*  Hyper-V
 
-Relynt cannot work on OpenVZ containers.
+Relynt does not support OpenVZ containers.
 
 Our system has been successfully tested on these cloud services:
 
@@ -28,7 +32,7 @@ OS Linux: Ubuntu (20.04) , PHP 7.4, MySQL server
 
 SSL Certificate
 
-Always better to secure your web server with an SSL Certificate
+It is recommended and necessary to secure your web server with an SSL Certificate:
 
 Our partner: GlobeSSL
 
